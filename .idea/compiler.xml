@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-consul-provider2" />
+        <module name="interface" />
+        <module name="common" />
+        <module name="springboot-rocketmq" />
+        <module name="spring-cloud-consul-consumer" />
+        <module name="spring-dubbo-consumer" />
+        <module name="model" />
+        <module name="service" />
+        <module name="spring-dubbo-provider" />
+        <module name="spring-cloud-consul-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
+      <module name="interface" target="1.8" />
+      <module name="it-share" target="1.8" />
+      <module name="model" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="spring-cloud-consul-consumer" target="1.8" />
+      <module name="spring-cloud-consul-provider" target="1.8" />
+      <module name="spring-cloud-consul-provider2" target="1.8" />
+      <module name="spring-dubbo-consumer" target="1.8" />
+      <module name="spring-dubbo-provider" target="1.8" />
+      <module name="springboot-rocketmq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it-share.iml" filepath="$PROJECT_DIR$/it-share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-consumer/spring-cloud-consul-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-consumer/spring-cloud-consul-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-provider/spring-cloud-consul-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-provider/spring-cloud-consul-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-provider2/spring-cloud-consul-provider2.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-provider2/spring-cloud-consul-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo-consumer/spring-dubbo-consumer.iml" filepath="$PROJECT_DIR$/spring-dubbo-consumer/spring-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo-provider/spring-dubbo-provider.iml" filepath="$PROJECT_DIR$/spring-dubbo-provider/spring-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rocketmq/springboot-rocketmq.iml" filepath="$PROJECT_DIR$/springboot-rocketmq/springboot-rocketmq.iml" />
+    </modules>
+  </component>
+</project>
