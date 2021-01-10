@@ -6,3 +6,25 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+#java
+*.class
+
+#package file
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+#maven ignore
+target/
+build/
+
+#eclipse ignore
+.settings/
+.project
+.classpatch
+
+#Intellij idea
+.idea/
+/idea/
+*.ipr

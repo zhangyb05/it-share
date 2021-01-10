@@ -12,9 +12,9 @@
         <module name="springboot-rocketmq" />
         <module name="spring-cloud-consul-consumer" />
         <module name="spring-dubbo-consumer" />
+        <module name="spring-dubbo-provider" />
         <module name="model" />
         <module name="service" />
-        <module name="spring-dubbo-provider" />
         <module name="spring-cloud-consul-provider" />
       </profile>
     </annotationProcessing>
@@ -25,6 +25,7 @@
       <module name="model" target="1.8" />
       <module name="service" target="1.8" />
       <module name="spring-cloud-consul-consumer" target="1.8" />
+      <module name="spring-cloud-consul-feign-consumer" target="1.8" />
       <module name="spring-cloud-consul-provider" target="1.8" />
       <module name="spring-cloud-consul-provider2" target="1.8" />
       <module name="spring-dubbo-consumer" target="1.8" />
