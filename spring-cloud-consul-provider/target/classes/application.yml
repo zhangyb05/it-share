@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: spring-cloud-consul-provider
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
