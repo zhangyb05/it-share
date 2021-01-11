@@ -20,6 +20,7 @@
         <module>spring-cloud-consul-consumer</module>
         <module>spring-cloud-consul-provider2</module>
         <module>spring-cloud-consul-feign-consumer</module>
+        <module>spring-cloud-gateway-consumer</module>
     </modules>
 
   <!--  <parent>
